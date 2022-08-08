@@ -1,0 +1,9 @@
+{
+  "todos": [
+    {
+      "task": "buy fruits",
+      "isCompleted": false,
+      "id": 10
+    }
+  ]
+}
